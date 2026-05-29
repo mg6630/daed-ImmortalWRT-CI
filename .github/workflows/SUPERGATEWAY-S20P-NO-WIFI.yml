@@ -4,8 +4,8 @@
 name: SUPERGATEWAY-S20P-NO-WIFI
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 2 * * *'
+  # schedule:
+  #   - cron: '0 2 * * *'
 permissions: write-all
 jobs:
   build:
