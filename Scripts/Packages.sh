@@ -72,19 +72,7 @@ UPDATE_PACKAGE "partexp" "sirpdboy/luci-app-partexp" "main"
 UPDATE_PACKAGE "qbittorrent" "sbwml/luci-app-qbittorrent" "master" "" "qt6base qt6tools rblibtorrent"
 UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
-UPDATE_PACKAGE "timecontrol" "sirpdboy/luci-app-timecontrol" "main"
-UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "gecoosac luci-app-timewol luci-app-wolplus"
-UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-UPDATE_PACKAGE "wechatpush" "xyplorer/luci-app-wechatpush" "master"
-UPDATE_PACKAGE "vlmcsd" "sbwml/luci-app-vlmcsd" "main"
-UPDATE_PACKAGE "ttyd" "sbwml/luci-app-ttyd" "main"
-UPDATE_PACKAGE "ramfree" "sirpdboy/luci-app-ramfree" "main"
-UPDATE_PACKAGE "cifs-mount" "Bobatas/luci-app-cifs-mount" "main"
-UPDATE_PACKAGE "appfilter" "destan19/OpenAppFilter" "master" "" "luci-app-appfilter oaf"
-UPDATE_PACKAGE "arpbind" "sbwml/luci-app-arpbind" "main"
-UPDATE_PACKAGE "zerotier" "VINESA/luci-app-zerotier" "main"
-UPDATE_PACKAGE "docker" "sdsws/luci-app-docker" "main"
-UPDATE_PACKAGE "qrencode" "telebot/luci-app-qrencode" "main"
+
 
 #更新软件包版本
 UPDATE_VERSION() {
