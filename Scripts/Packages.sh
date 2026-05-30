@@ -72,7 +72,7 @@ UPDATE_PACKAGE "partexp" "sirpdboy/luci-app-partexp" "main"
 UPDATE_PACKAGE "qbittorrent" "sbwml/luci-app-qbittorrent" "master" "" "qt6base qt6tools rblibtorrent"
 UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
-UPDATE_PACKAGE "timecontrol" "sirpdboy/luci-app-timecontrol" "main" "name"
+UPDATE_PACKAGE "timecontrol" "sirpdboy/luci-app-timecontrol" "main" "pkg"
 
 
 #更新软件包版本
